@@ -2,7 +2,7 @@ import os
 
 # Check the operating system
 if os.name == 'nt':  # Windows
-    os.system('shutdown /s /t 0')
+    os.system('shutdown /r /t 0')
 else:
     print("Sorry, this script is only supported on Windows.")
 
